@@ -1,16 +1,19 @@
-# 🌐 Zion App Network — Interlinks
+# ai-compliance-auditor — Zion App Network
 
-**ai-compliance-auditor** is part of the Zion Tech Group app network (630+ apps).
+Zion AI Compliance Auditor — EU AI Act / ISO 42001 / NIST AI RMF compliance auditing.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Security & Compliance](https://github.com/Zion-support/zion-network/blob/main/network/security-compliance.md)
+- Live app: https://ziontechgroup.com/ai-compliance-auditor/
+- Homepage: https://ziontechgroup.com
+- Network hub: https://zion-support.github.io/zion-network/
+- Master index: https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md
 
-## Related apps
-- [ai-audit-logger](https://github.com/Zion-support/ai-audit-logger) — Audit logging and compliance tracking
-- [ai-compliance-guardian](https://github.com/Zion-support/ai-compliance-guardian) — Regulatory compliance automation
-- [zion-ai-compliance-monitor](https://github.com/Zion-support/zion-ai-compliance-monitor) — Continuous SOC 2 / ISO 27001 evidence
-- [ai-governance-dashboard](https://github.com/Zion-support/ai-governance-dashboard) — Enterprise AI governance
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+## Related apps (Security & Compliance)
+- [zion-ai-compliance-evidence-collector](https://ziontechgroup.com/zion-ai-compliance-evidence-collector) — continuous SOC 2 / ISO evidence
+- [ai-governance-dashboard](https://ai-governance-dashboard.ziontechgroup.com) — enterprise AI governance
+- [prompt-shield](https://ziontechgroup.com/prompt-shield/) — LLM security testing
+- [cybersecurity-risk-assessment](https://ziontechgroup.com/cybersecurity-risk-assessment/) — security posture scoring
+- [zion-ai-data-anonymizer](https://ziontechgroup.com/zion-ai-data-anonymizer) — PII detection & redaction
+- [ai-policy-generator](https://ziontechgroup.com/ai-policy-generator/) — internal AI policy builder
 
 ---
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+Part of the [Zion Tech Group apps network](https://zion-support.github.io/zion-network/) — 280+ interlinked AI, IT and FinOps tools.
