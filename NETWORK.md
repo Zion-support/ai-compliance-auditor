@@ -1,19 +1,10 @@
-# ai-compliance-auditor — Zion App Network
+# AI Compliance Auditor
 
-Zion AI Compliance Auditor — EU AI Act / ISO 42001 / NIST AI RMF compliance auditing.
+EU AI Act / ISO 42001 / NIST AI RMF automation.
 
-- Live app: https://ziontechgroup.com/ai-compliance-auditor/
-- Homepage: https://ziontechgroup.com
-- Network hub: https://zion-support.github.io/zion-network/
-- Master index: https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-compliance-guardian](https://github.com/Zion-support/ai-compliance-guardian) · [zion-ai-compliance-auditor](https://github.com/Zion-support/zion-ai-compliance-auditor) · [zion-ai-compliance-scanner](https://github.com/Zion-support/zion-ai-compliance-scanner) · [ai-governance-dashboard](https://github.com/Zion-support/ai-governance-dashboard) · [zion-ai-regs-radar](https://github.com/Zion-support/zion-ai-regs-radar) · [ai-policy-generator](https://github.com/Zion-support/ai-policy-generator)
 
-## Related apps (Security & Compliance)
-- [zion-ai-compliance-evidence-collector](https://ziontechgroup.com/zion-ai-compliance-evidence-collector) — continuous SOC 2 / ISO evidence
-- [ai-governance-dashboard](https://ai-governance-dashboard.ziontechgroup.com) — enterprise AI governance
-- [prompt-shield](https://ziontechgroup.com/prompt-shield/) — LLM security testing
-- [cybersecurity-risk-assessment](https://ziontechgroup.com/cybersecurity-risk-assessment/) — security posture scoring
-- [zion-ai-data-anonymizer](https://ziontechgroup.com/zion-ai-data-anonymizer) — PII detection & redaction
-- [ai-policy-generator](https://ziontechgroup.com/ai-policy-generator/) — internal AI policy builder
-
----
-Part of the [Zion Tech Group apps network](https://zion-support.github.io/zion-network/) — 280+ interlinked AI, IT and FinOps tools.
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
